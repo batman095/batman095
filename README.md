@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Data science.
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me zameer16to25@gmail.com It's my Email you can contact Me 
-- 😄 Pronouns: URDU,TAMIL,ENGLISH
+- 😄 Pronouns:
 - ⚡ Fun fact: I AM BATMAN
 
 <!---
