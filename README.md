@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @batman095
-- 👀 I’m interested in gaming,coding,on anything 
-- 🌱 I’m currently learning python,ML
+- 👋 Assalamu Alaikum My Name is Zameer Ali
+- 👀 I’m interested in Machine Learning, Data Scientist, Data Analysist, Gaming, And always curiose on somthing how work like {PHYSICS,CHEMISTRY,PHILOSOPHY } 
+- 🌱 I’m currently learning Machine Learning, Data science.
 - 💞️ I’m looking to collaborate on you
-- 📫 How to reach me 8838243993 its my mobile and whatsapp number
-- 😄 Pronouns: 
-- ⚡ Fun fact: i am new 
+- 📫 How to reach me zameer16to25@gmail.com It's my Email you can contact Me 
+- 😄 Pronouns: URDU,TAMIL,ENGLISH
+- ⚡ Fun fact: I AM BATMAN!
 
 <!---
 batman095/batman095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
