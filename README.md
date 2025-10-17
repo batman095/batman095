@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me zameer16to25@gmail.com It's my Email you can contact Me 
 - 😄 Pronouns: URDU,TAMIL,ENGLISH
-- ⚡ Fun fact: I AM BATMAN!
+- ⚡ Fun fact: I AM BATMAN
 
 <!---
 batman095/batman095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
